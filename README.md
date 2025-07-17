@@ -19,3 +19,9 @@ A Selenium WebDriver project for automating tests on a todo list web application
 1. Clone the repository:
    ```bash
    git clone https://github.com/AnuragPandit01/TodoAppAutomation.git# TodoAppAutomation
+b. Navigate to the project directory:
+cd TodoAppAutomation
+c. Install dependencies:
+mvn clean install
+d. Run tests:
+mvn test
